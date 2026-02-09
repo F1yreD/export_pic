@@ -4,7 +4,7 @@ A simple Windows GUI tool that, based on the order of the input text, batch-copi
 ## Windows下载
 👉 [下载链接](https://github.com/F1yreD/export_pic/releases/latest)
 
-
+# 下面可以不看
 ## if you want to use cmd version:
 1. [点击链接下载python包](https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe)
 2. 打开.exe
