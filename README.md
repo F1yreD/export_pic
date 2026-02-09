@@ -23,3 +23,6 @@
 2. right click to run cmd in file folder
 3. type "pyinstaller -F -w export_pic_gui.py"
 4. click "./build/export_pic_gui.exe"
+
+## download
+👉 [下载 Windows 可执行文件（exe）](https://github.com/F1yreD/export_pic/releases/latest)
