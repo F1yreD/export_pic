@@ -1,13 +1,17 @@
 # export_pic
 A simple Windows GUI tool that, based on the order of the input text, batch-copies the corresponding character’s TIF/PSD files and outputs them with automatic numbering.
 根据输入文本顺序，将对应字符的 TIF / PSD 文件批量复制并自动编号输出的 Windows GUI 工具。
-## 使用gui版本只需下载下面链接的exe文件，打开即可使用
+## 只需下载下面链接的exe文件,双击打开即可使用
+👉 [下载 Windows 可执行文件（点击export_pic.exe即可下载）](https://github.com/F1yreD/export_pic/releases/latest)
+
+
 ## if you want to use cmd version:
 1. [点击链接下载python包](https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe)
 2. 打开.exe
 3. 勾选下面两个选项并点击install now
 
 #### cmd使用步骤：
+👉 [下载 python脚本](https://github.com/F1yreD/export_pic/releases/tag/cmd_v1.0.0)
 1. 按win+r输入cmd运行
 2. 输入cd /d C:\Users\sxsc\Desktop     这是你存放.py文件的文件夹的路径
 3. 输入python export_pic.py
@@ -24,8 +28,3 @@ A simple Windows GUI tool that, based on the order of the input text, batch-copi
 2. right click to run cmd in file folder
 3. type "pyinstaller -F -w export_pic_gui.py"
 4. click "./build/export_pic_gui.exe"
-
-## Download
-👉 [下载 Windows 可执行文件（点击export_pic.exe即可下载）](https://github.com/F1yreD/export_pic/releases/latest)
-
-👉 [下载 python脚本](https://github.com/F1yreD/export_pic/releases/tag/cmd_v1.0.0)
