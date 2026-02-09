@@ -6,7 +6,7 @@ A simple Windows GUI tool that, based on the order of the input text, batch-copi
 ![Downloads](https://img.shields.io/github/downloads/F1yreD/export_pic/total)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=F1yreD.export_pic)
 ## Windows下载
-👉 [下载链接](https://github.com/F1yreD/export_pic/releases/latest)
+👉 [下载链接](https://github.com/F1yreD/export_pic/releases/download/v1.0.0/export_pic.exe)
 
 The executable file is provided for convenience.  
 Copyright © 2026 F1yreD.
