@@ -5,14 +5,14 @@ from tkinter import filedialog, messagebox, scrolledtext
 
 # config
 CONFIG = {
-    "source_folder": "",
-    "target_folder": "",
-    "numbering_digits": 5,
-    "output_extension": ".psd",
-    "include_original_char": False,
+    "source_folder": "", # 源TIF图片文件夹
+    "target_folder": "", # 目标文件夹
+    "numbering_digits": 5, # 编号位数
+    "output_extension": ".psd", # 输出文件扩展名
+    "include_original_char": False, # 是否在文件名中包含原字符
 }
 
-# cmd
+
 def copy_tif_with_config(text, log_func):
     config = CONFIG
 
@@ -80,7 +80,7 @@ def log(msg):
     log_box.insert(tk.END, msg + "\n")
     log_box.see(tk.END)
 
-# ================= 主窗口 =================
+# main window
 root = tk.Tk()
 root.title("TIF 批量导出工具")
 root.geometry("600x500")
