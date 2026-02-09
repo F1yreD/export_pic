@@ -25,4 +25,5 @@ A simple Windows GUI tool that, based on the order of the input text, batch-copi
 
 ## download
 👉 [下载 Windows 可执行文件（点击export_pic.exe即可下载）](https://github.com/F1yreD/export_pic/releases/latest)
+
 👉 [下载 python脚本](https://github.com/F1yreD/export_pic/releases/tag/cmd_v1.0.0)
