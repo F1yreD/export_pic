@@ -1,5 +1,6 @@
 # export_pic
 A simple Windows GUI tool that, based on the order of the input text, batch-copies the corresponding character’s TIF/PSD files and outputs them with automatic numbering.
+
 根据输入文本顺序，将对应字符的 TIF / PSD 文件批量复制并自动编号输出的 Windows GUI 工具。
 ## Windows下载
 👉 [下载链接](https://github.com/F1yreD/export_pic/releases/latest)
