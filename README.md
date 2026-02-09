@@ -1,7 +1,7 @@
 # export_pic
 A simple Windows GUI tool that, based on the order of the input text, batch-copies the corresponding character’s TIF/PSD files and outputs them with automatic numbering.
 根据输入文本顺序，将对应字符的 TIF / PSD 文件批量复制并自动编号输出的 Windows GUI 工具。
-## 使用gui版本直接点击下面链接下载exe文件即可使用
+## 使用gui版本只需下载下面链接的exe文件，打开即可使用
 ## if you want to use cmd version:
 1. [点击链接下载python包](https://www.python.org/ftp/python/3.13.12/python-3.13.12-amd64.exe)
 2. 打开.exe
